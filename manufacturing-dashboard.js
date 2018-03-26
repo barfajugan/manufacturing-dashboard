@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2018/03/food-manufacturing-software-with.html"}
 if(x=="2"){xxx="/2018/03/3-tips-to-fast-track-creating-reports.html"}
 if(x=="3"){xxx="/2018/03/metrics-are-spreading-to-manufacturing.html"}
 if(x=="4"){xxx="/2018/03/25-kpi-examples-for-manufacturing.html"}
-if(x=="5"){xxx="/2018/03/manufacturing-dashboard-software.html"}a_to_ve[i].href="http://www.manufacturing-dashboard-software.review"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/03/manufacturing-dashboard-software.html"}a_to_ve[i].href="http://www.manufacturing-dashboard-software.website"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
